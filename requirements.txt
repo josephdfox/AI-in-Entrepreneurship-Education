@@ -2,3 +2,4 @@ os
 openai
 langchain
 gpt_index
+jupyter-notebook
