@@ -4,4 +4,4 @@ There are two primary files that can be used at this time - the [technical cookb
 
 You can use prompts in any LLM like [ChatGPT](https://chat.openai.com/) or even [OpenAI's Playground](https://platform.openai.com/playground). 
 
-The technical cookbook is availble as a [Notebook](https://jupyter.org/). You will need your own API key from [OpenAI](https://openai.com/).
+The technical cookbook is availble as a [Notebook](https://jupyter.org/). You will need your own API key from [OpenAI](https://openai.com/). The Technical Cookbook has been updated to incoprorate LangChain's ChatGPT integration. 
