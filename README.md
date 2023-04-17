@@ -4,6 +4,10 @@ There are two primary files that can be used at this time - the [technical cookb
 
 You can use prompts in any LLM like [ChatGPT](https://chat.openai.com/) or even [OpenAI's Playground](https://platform.openai.com/playground). 
 
+## Auto GPTs
+
+I am starting to add things in on automated agents and what entrepreneurs can do with them. You can follow along some experiments with the tool used, the prompts and costs included here: https://www.notion.so/eeai/Research-80f98257473847148aa85742f265c2c1
+
 The technical cookbook is availble as a [Notebook](https://jupyter.org/). You will need your own API key from [OpenAI](https://openai.com/). The Technical Cookbook has been updated to incoprorate LangChain's ChatGPT integration. 
 
 Disclaimer:
