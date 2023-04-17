@@ -2,7 +2,7 @@
 Public repository for use of AI in Entrepreneurship Education.
 There are two primary files that can be used at this time - the [technical cookbook](https://github.com/josephdfox/AI-in-Entrepreneurship-Education/blob/main/AIEE-Cookbook-Online.ipynb) and the [prompt cookbook](https://github.com/josephdfox/AI-in-Entrepreneurship-Education/blob/main/AIEE-Cookbook-Prompts.ipynb). Both files will be added to over time.
 
-You can use prompts in any LLM like [ChatGPT](https://chat.openai.com/) or even [OpenAI's Playground](https://platform.openai.com/playground). 
+You can use prompts in any LLM like [ChatGPT](https://chat.openai.com/) or even [OpenAI's Playground](https://platform.openai.com/playground). You'll also see that the technical side of this uses [LangChain](https://github.com/hwchase17/langchain) - it is super easy to change out any LLM there, so even if you see an older model you can use LangChain's built-in interoperatability to switch to newer models. 
 
 ## Auto GPTs
 
