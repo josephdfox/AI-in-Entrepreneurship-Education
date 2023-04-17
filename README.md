@@ -10,7 +10,7 @@ I am starting to add things in on automated agents and what entrepreneurs can do
 
 The technical cookbook is availble as a [Notebook](https://jupyter.org/). You will need your own API key from [OpenAI](https://openai.com/). The Technical Cookbook has been updated to incoprorate LangChain's ChatGPT integration. 
 
-Disclaimer:
+## Disclaimer:
 This project is an experimental application and is provided "as-is" without any warranty, express or implied. By using this software, you agree to assume all risks associated with its use, including but not limited to data loss, system failure, or any other issues that may arise.
 
 The developers and contributors of this project do not accept any responsibility or liability for any losses, damages, or other consequences that may occur as a result of using this software. You are solely responsible for any decisions and actions taken based on the information provided by it.
