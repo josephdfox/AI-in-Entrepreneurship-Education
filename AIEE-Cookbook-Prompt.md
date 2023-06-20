@@ -36,4 +36,4 @@ Key variables to consider:
 * Write a paragraph for the market size part of a business plan and include the python code to generate a graph with estimates of the market size for the next 5 years in the pet sitting industry.
 
 
-If you are using the cookbook, please cite Fox, Joseph D. (2023), AI in Entrepreneurship Education Cookbook.
+Please cite the cookbook using the following: Fox, Joseph D., Luke Pittaway, and Ikenna Uzeugbunam (2023), AI in Entrepreneurship Education Cookbook.
