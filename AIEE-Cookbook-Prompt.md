@@ -4,18 +4,18 @@ This workbook serves as a series of examples which entrepreneurship educators ca
 ## 1. Ideation Prompts
 Key variables to consider:
 
-industry
-customer segment
-goals (i.e. revenue)
-time (weekends, per week, 6 month temporary opportunity)
-problem to solve
-Job-to-be-done
-Sample Prompts:
+* industry
+* customer segment
+* goals (i.e. revenue)
+* time (weekends, per week, 6 month temporary opportunity)
+* problem to solve
+* Job-to-be-done
 
-Write a list of 5 new venture ideas.
-Write a list of 5 new venture ideas for the pet sitting industry.
-Write a list of 5 new venture ideas a college student in rural Idaho could start with 200 that could generate 1000 in six months.
-this is a 2 part prompt Write about a problem that Bob, a middle-aged man from Kentucky, is having trying to keep his inventory organized at his auto parts store. follow up prompt What are 5 new venture ideas that can be pursued based on solving Bob's problem?
+### Sample Prompts:
+* Write a list of 5 new venture ideas.
+* Write a list of 5 new venture ideas for the pet sitting industry.
+* Write a list of 5 new venture ideas a college student in rural Idaho could start with 200 that could generate 1000 in six months.
+* (this is a 2 part prompt)Write about a problem that Bob, a middle-aged man from Kentucky, is having trying to keep his inventory organized at his auto parts store. follow up prompt What are 5 new venture ideas that can be pursued based on solving Bob's problem?
 ## 2. Marketing Prompts
 Write a list of 5 marketing tactics a new commercial cleaning company could effectively use to get its first 10 customers.
 Write 3 sample tweets with a call to action talking about commercial cleaning services in cleveland ohio.
