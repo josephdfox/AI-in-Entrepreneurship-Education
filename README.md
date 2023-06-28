@@ -2,13 +2,9 @@
 Public repository for use of AI in Entrepreneurship Education.
 There are two primary files that can be used at this time - the [technical cookbook](https://github.com/josephdfox/AI-in-Entrepreneurship-Education/blob/main/AIEE-Cookbook-Online.ipynb) and the [prompt cookbook](AIEE-Cookbook-Prompt.md). Both files will be added to over time.
 
-You can use prompts in any LLM like [ChatGPT](https://chat.openai.com/) or even [OpenAI's Playground](https://platform.openai.com/playground). You'll also see that the technical side of this uses [LangChain](https://github.com/hwchase17/langchain) - it is super easy to change out any LLM there, so even if you see an older model you can use LangChain's built-in interoperatability to switch to newer models. 
+You can use prompts in any LLM like [ChatGPT](https://chat.openai.com/) or even [OpenAI's Playground](https://platform.openai.com/playground). You'll also see that the technical side of this uses [LangChain](https://github.com/hwchase17/langchain) - it is easy to change out any LLM there, so even if you see an older model you can use LangChain's built-in interoperatability to switch to newer models. 
 
-## Auto GPTs
-
-I am starting to add things in on automated agents and what entrepreneurs can do with them. You can follow along some experiments with the tool used, the prompts and costs included here: https://www.notion.so/eeai/Research-80f98257473847148aa85742f265c2c1
-
-## Using this stuff
+## Usage
 
 The technical cookbook is availble as a [Notebook](https://jupyter.org/). You will need your own API key from [OpenAI](https://openai.com/). The Technical Cookbook has been updated to incoprorate LangChain's ChatGPT integration. 
 
